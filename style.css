@@ -215,9 +215,9 @@ a {
     display: inline-block;
     max-width: 100%;
     overflow-wrap: break-word;
-    word-break: break-all; /* This is more aggressive than overflow-wrap */
+    word-break: break-all;
     white-space: normal;
-    text-overflow: ellipsis; /* Only works with overflow:hidden and white-space:nowrap, so not needed here */
+    text-overflow: ellipsis;
     color: #e16162;
     font-size: 22px;
     padding-left: 10px;

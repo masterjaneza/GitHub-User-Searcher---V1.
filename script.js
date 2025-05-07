@@ -1,6 +1,3 @@
-// https://api.github.com/users/${userName}
-
-
 // take elements from html - წამოვიღეთ ელემენტები html - დან
 let input = document.querySelector('#input1');
 let btn = document.querySelector('#btn1');
