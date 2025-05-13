@@ -1,12 +1,12 @@
-## Version 3 is Here
+## Version 1 is Here
 
-## GitHub User Searcher Version 3 - HTML + RAW CSS + VANILLA JS
+## GitHub User Searcher Version 1 - HTML + RAW CSS + VANILLA JS
 
 For Georgian Scroll Down:
 
-# 🚀 GitHub User Searcher V3
+# 🚀 GitHub User Searcher V1
 
-Welcome! This is **GitHub User Searcher V3** - a fast, lightweight, and visually polished web app that lets you search GitHub users and display their profiles using a sleek, user-friendly UI.
+Welcome! This is **GitHub User Searcher V1** - a fast, lightweight, and visually polished web app that lets you search GitHub users and display their profiles using a sleek, user-friendly UI.
 
 ---
 
@@ -34,9 +34,9 @@ Welcome! This is **GitHub User Searcher V3** - a fast, lightweight, and visually
 Georgian:
 
 
-# 🚀 GitHub User Searcher V3
+# 🚀 GitHub User Searcher V1
 
-გამარჯობა! ეს არის **GitHub User Searcher V3** — მსუბუქი, სწრაფი და ვიზუალურად დახვეწილი ვებსაპლიკაცია, რომელიც GitHub API-ის საშუალებით საშუალებას გაძლევს მოძებნო GitHub მომხმარებლები და იხილო მათი პროფილები ლამაზი UI-თი.
+გამარჯობა! ეს არის **GitHub User Searcher V1** — მსუბუქი, სწრაფი და ვიზუალურად დახვეწილი ვებსაპლიკაცია, რომელიც GitHub API-ის საშუალებით საშუალებას გაძლევს მოძებნო GitHub მომხმარებლები და იხილო მათი პროფილები ლამაზი UI-თი.
 
 ---
 
